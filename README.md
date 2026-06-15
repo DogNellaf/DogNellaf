@@ -48,8 +48,6 @@ I'm comfortable across the full stack: Python backends, C# desktop apps, Java se
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DogNellaf&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DogNellaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
