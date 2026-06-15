@@ -54,16 +54,6 @@ I'm comfortable across the full stack: Python backends, C# desktop apps, Java se
 
 </div>
 
----
-
-## 🏆 Education & Programs
-
-- 🎓 **IT Leaders of the Future** — Software Engineering program (5 attestations completed, incl. ML coursework in Jupyter)
-- 📐 Czech Startups Calculator — web service built for international market analysis
-- 🏢 Corporate Settlement Service — Java-based enterprise solution
-
----
-
 ## 📬 Get in Touch
 
 <div align="center">
