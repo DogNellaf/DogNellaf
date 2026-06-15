@@ -44,66 +44,6 @@ I'm comfortable across the full stack: Python backends, C# desktop apps, Java se
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🔷 [Digital Twin System](https://github.com/DogNellaf/digital-twin-system)
-> **ShaderLab / Unity**
-
-Management system for digital twins. Real-time 3D visualization of physical objects and processes — the kind of tech used in industry 4.0, smart factories and IoT infrastructure.
-
----
-
-### 🛒 [Shop Recommendation System](https://github.com/DogNellaf/shop-recomendation-system)
-> **C# · Neural Network**
-
-Online store management application with a built-in AI recommendation engine. Custom-trained neural network suggests products based on user behavior — an actual ML feature, not just a filter.
-
----
-
-### 🧱 [C2C 3D Models Market](https://github.com/DogNellaf/c2c-3d-market)
-> **PHP**
-
-A full peer-to-peer marketplace for 3D model creators. Sellers list models, buyers browse and purchase — a niche platform serving the growing 3D printing and design community.
-
----
-
-### 🤖 [Notification Django Bot](https://github.com/DogNellaf/notification-django-bot)
-> **Python · Django · Telegram**
-
-Role-based Telegram bot built on Django for sending event notifications. Users receive relevant alerts based on their role — a clean integration of Django's ORM with Telegram's Bot API.
-
----
-
-### 📸 [Leningrad Region Photobooth](https://github.com/DogNellaf/leningrad-region-photobooth)
-> **HTML · Interactive Installation**
-
-An interactive digital stand / photobooth built for a regional event. Touchscreen-friendly, designed for public exhibition — shows I can ship experiences, not just APIs.
-
----
-
-### 🗺️ [Fallout 76 Interactive Map](https://github.com/DogNellaf/fallout76-map)
-> **JavaScript**
-
-Custom interactive map for Fallout 76 — built for fun, proof that side projects teach the best lessons. Layer toggling, markers, smooth UX.
-
----
-
-### 🔗 [Link Shortener](https://github.com/DogNellaf/link-shortener)
-> **Python**
-
-Clean, minimal URL shortener. A focused utility that does one thing right.
-
----
-
-### 📊 [1-OFD Email Parser](https://github.com/DogNellaf/email-1-ofd.ru-parser)
-> **Python**
-
-Parses fiscal receipts from 1-ofd.ru emails and exports to Excel. A practical automation tool — saves hours of manual data entry for accountants and small business owners.
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
