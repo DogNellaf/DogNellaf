@@ -48,7 +48,7 @@ I'm comfortable across the full stack: Python backends, C# desktop apps, Java se
 
 <div align="center">
 
-![DogNellaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DogNellaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Activity Graph](https://github-activity-graph.vercel.app/graph?username=DogNellaf&theme=tokyo-night&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DogNellaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
